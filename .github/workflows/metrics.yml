@@ -19,5 +19,7 @@ jobs:
           filename: github-metrics.svg
           base: ""
           plugin_repositories: yes
+          plugin_repositories_featured: Rayyan-Rizwan/plant-disease-detector, Rayyan-Rizwan/movie-rec
           plugin_repositories_pinned: 4
+          plugin_repositories_order: featured, pinned, starred
           config_theme: tokyonight
