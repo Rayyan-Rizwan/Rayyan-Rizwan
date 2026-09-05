@@ -58,15 +58,15 @@
 
 
 
-<!-- Phase 5: Social & Links Badges -->
+<!-- Phase 5: Social Badges (Single Row Line) -->
 <p align="center">
   <a href="https://www.linkedin.com/in/rayyan-rizwan-221304294"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   &nbsp;&nbsp;
   <a href="mailto:rayyanrizwan.connect@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=108981&labelColor=0A101F" alt="Email" /></a>
   &nbsp;&nbsp;
-  <a href="https://next-word-prediction-8ehwby6pr2sdkvgakmxxdd.streamlit.app/"><img src="https://img.shields.io/badge/Next_Word_App-0A101F?style=for-the-badge&logo=streamlit&logoColor=A78BFA&labelColor=0A101F" alt="Streamlit App" /></a>
+  <a href="https://next-word-prediction-8ehwby6pr2sdkvgakmxxdd.streamlit.app/"><img src="https://img.shields.io/badge/Next_Word_App-0A101F?style=for-the-badge&logo=streamlit&logoColor=A78BFA&labelColor=0A101F" alt="Next Word Prediction App" /></a>
   &nbsp;&nbsp;
-  <a href="https://huggingface.co/Rayyan-Rizwan"><img src="https://img.shields.io/badge/All_Apps-0A101F?style=for-the-badge&logo=huggingface&logoColor=FFD21E&labelColor=0A101F" alt="More Apps" /></a>
+  <a href="https://plant-disease-detector-fhqvnffpnmpjdexzmu8fx2.streamlit.app/"><img src="https://img.shields.io/badge/Plant_Disease_App-0A101F?style=for-the-badge&logo=streamlit&logoColor=10B981&labelColor=0A101F" alt="Plant Disease Detector App" /></a>
 </p>
 
 
