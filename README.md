@@ -2,20 +2,20 @@
 
 <!-- Phase 1: Animated Banner with Theme Switcher -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rayyan-Rizwan/Rayyan-Rizwan/main/dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rayyan-Rizwan/Rayyan-Rizwan/main/light.svg">
-  <img alt="Rayyan Rizwan Banner" src="https://raw.githubusercontent.com/Rayyan-Rizwan/Rayyan-Rizwan/main/light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="light.svg">
+  <img alt="Rayyan Rizwan Banner" src="dark.svg" width="100%">
 </picture>
 
 <br/><br/>
 
-<!-- Phase 2: Self-Hosted Stats Cards & Daily Streak -->
+<!-- Phase 2: Stats Cards & Daily Streak -->
 <img width="100%" src="https://streak-stats.demolab.com/?user=Rayyan-Rizwan&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="streak" />
 
 <br/><br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Rayyan-Rizwan&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rayyan-Rizwan&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
+<img width="49%" src="https://YOUR-VERCEL-INSTANCE.vercel.app/api?username=Rayyan-Rizwan&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="stats" />
+<img width="49%" src="https://YOUR-VERCEL-INSTANCE.vercel.app/api/top-langs/?username=Rayyan-Rizwan&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="top langs" />
 
 <br/><br/>
 
@@ -23,7 +23,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rayyan-Rizwan/Rayyan-Rizwan/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rayyan-Rizwan/Rayyan-Rizwan/output/github-snake.svg" />
-  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rayyan-Rizwan/Rayyan-Rizwan/output/github-snake.svg" />
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/Rayyan-Rizwan/Rayyan-Rizwan/output/github-snake-dark.svg" />
 </picture>
 
 <br/><br/>
