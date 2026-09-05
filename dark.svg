@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1180 300" width="100%" height="100%">
+  <rect width="100%" height="100%" fill="#0A101F" rx="10"/>
+  <rect x="2" y="2" width="1176" height="296" fill="none" stroke="#22D3EE" stroke-width="1.5" opacity="0.3" rx="8"/>
+  <text x="40" y="70" fill="#22D3EE" font-family="monospace" font-size="28" font-weight="bold"> RAYYAN RIZWAN</text>
+  <text x="40" y="115" fill="#A78BFA" font-family="monospace" font-size="18">AI / Machine Learning Learner &amp; Web Developer</text>
+  <line x1="40" y1="145" x2="1140" y2="145" stroke="#22D3EE" stroke-width="1" opacity="0.2"/>
+  <text x="40" y="185" fill="#94A3B8" font-family="monospace" font-size="14">SYSTEM.STATUS  : [ ONLINE ]</text>
+  <text x="40" y="215" fill="#94A3B8" font-family="monospace" font-size="14">CORE.STACK     : Python | TensorFlow | Keras | Streamlit</text>
+  <text x="40" y="245" fill="#94A3B8" font-family="monospace" font-size="14">FOCUS          : Building + Learning + Shipping</text>
+  <circle cx="1120" cy="50" r="6" fill="#10B981"/>
+</svg>
